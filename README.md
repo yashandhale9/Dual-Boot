@@ -248,24 +248,7 @@ update-grub
 ```
 ---
 
-# **Visuals:**
 
-
-image-1765051196029.jpg
-```
-## ⚠️ The Moment Everything Went Wrong
-
-During Ubuntu installation, instead of choosing **Manual Installation (Something Else)**  
-I accidentally clicked **Erase Disk and Install Ubuntu**.
-
-This tiny mistake triggered the entire chain of events —  
-disk wiped → partitions gone → Windows lost → bootloader broken → full recovery mission.
-```
-
-![Erase Disk Screenshot](path/to/image1.jpg)
-
-
----
 
 #  **Tips for Beginners**
 
